@@ -1,0 +1,17 @@
+.card {
+    background-color: #1e1e1e;
+    border-radius: 12px;
+    padding: 16px;
+    color: white;
+    margin-bottom: 12px;
+    }
+
+.danger {
+    color: var(--red-danger);
+    font-weight: bold;
+}
+
+.safe {
+    color: var(--blue-safe);
+    font-weight: bold;
+}
